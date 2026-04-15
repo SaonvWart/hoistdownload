@@ -5,6 +5,6 @@ export default {
   },
   beta: {
     version: "0.0.5",
-    download: "https://xxx/beta.jar"
+    download: "https://github.com/SaonvWart/hoistdownload/releases/download/dev-0.0.4/hoist-dev-0.0.4.jar"
   }
 }
