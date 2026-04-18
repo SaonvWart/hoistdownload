@@ -7,8 +7,8 @@ const config = {
   },
   beta: {
     version: "0.0.6",
-    download: "",
-    mod_download: "https://example.com/beta-mod.jar",
-    dll_download: "https://example.com/beta.dll"
+    download: "https://github.com/SaonvWart/hoistdownload/releases/download/dev-0.0.4/hoist-dev-0.0.4.jar",
+    mod_download: "https://github.com/SaonvWart/hoistdownload/releases/download/dev-0.0.4/hoist-dev-0.0.4.jar",
+    dll_download: "none"
   }
 };
